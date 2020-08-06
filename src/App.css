@@ -11,7 +11,7 @@ html {
   scroll-snap-type: y mandatory;
 }
 .app {
-  background-color: rgb(133, 119, 119);
+  background-color: rgb(241, 248, 199);
   height: 100vh;
   display: grid;
   place-items: center;
